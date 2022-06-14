@@ -1,7 +1,7 @@
 
 <?php include("partial/menu.php"); ?>
       <!-- main content section start -->
-      <div class="main-content" style="width: 20%;
+      <div class="main-content" style="width: 480%;
     background-color: white; margin: 1% ; pading: 4% ; text-align: center;"> 
      <strong style="color:blueviolet" >DASHBOARD</strong>
       <div class="wrapper"> 
